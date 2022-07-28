@@ -20,8 +20,8 @@ The batters can run after the ball is hit. A run is scored each time they change
 
 The game has evolved from timeless Test matches to 100 balls game and it has over of 10 formates, however, internationally three formates have been recoginsed including TEST, ODI and T20I.
 
-![Cricket_History](History.png "Image 1")
+![Cricket_History](Images/History.png "Image 1")
 
-![No of Games](NoofMatches.png "Image 2")
+![No of Games](Images/NoofMatches.png "Image 2")
 
-![WinPercentage](Percentage.png "Image 2")
+![WinPercentage](Images/Percentage.png "Image 2")
